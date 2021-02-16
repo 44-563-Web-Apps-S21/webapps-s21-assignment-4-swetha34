@@ -1,0 +1,17 @@
+h6{
+    color: black;
+    font: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color:black;
+    font:10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.stage-direction{
+    background-color: burlywood;
+}
+.stage-direction:hover{
+    background-color: chocolate;
+    color: cornsilk;
+}
