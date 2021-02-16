@@ -1,4 +1,4 @@
-h6{
+.names{
     color: black;
     font: 15px;
     font-family: 'Courier New', Courier, monospace;
@@ -13,5 +13,14 @@ p{
 }
 .stage-direction:hover{
     background-color: chocolate;
-    color: cornsilk;
+    color: deeppink;
+}
+.ORLANDO{
+    color: rgb(153, 13, 235);
+}
+.ADAM{
+    color: rgb(250, 168, 16);
+}
+.OLIVER{
+    color: darkturquoise;
 }
