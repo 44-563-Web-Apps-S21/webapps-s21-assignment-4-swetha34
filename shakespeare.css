@@ -19,8 +19,27 @@ p{
     color: rgb(153, 13, 235);
 }
 .ADAM{
-    color: rgb(250, 168, 16);
+    color: rgb(32, 16, 250);
 }
 .OLIVER{
     color: darkturquoise;
 }
+div{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 70px;
+}
+table{
+    border:solid 3px rgb(253, 10, 10);
+    border-collapse: separate;
+}
+th,td{
+    border: dashed 1px black;
+    text-align: center;
+}
+tr :nth-child(even){
+    background-color: goldenrod;
+}
+
